@@ -12,19 +12,7 @@
         "outlet": 0,
         "iso_code_2": "CZ",
         "language": "en",
-        "prices": {
-            "currency": "CZK",
-            "list": {
-                "default": "2425",
-                "special": null,
-                "special_expire_date": null
-            },
-            "reseller": {
-                "default": "1202",
-                "special": null,
-                "special_expire_date": null
-            }
-        },
+        "price": "2425",
         "main_image": {
             "url": "https://web-dev.kvalitne.cz/images/products/43110.jpg",
             "thumbs": {
@@ -121,19 +109,7 @@
         "outlet": 0,
         "iso_code_2": "CZ",
         "language": "en",
-        "prices": {
-            "currency": "CZK",
-            "list": {
-                "default": "7689",
-                "special": null,
-                "special_expire_date": null
-            },
-            "reseller": {
-                "default": "3812",
-                "special": null,
-                "special_expire_date": null
-            }
-        },
+        "price": "7689",
         "main_image": {
             "url": "https://web-dev.kvalitne.cz/images/products/38000.jpg",
             "thumbs": {
@@ -221,19 +197,7 @@
         "outlet": 0,
         "iso_code_2": "CZ",
         "language": "en",
-        "prices": {
-            "currency": "CZK",
-            "list": {
-                "default": "7097",
-                "special": null,
-                "special_expire_date": null
-            },
-            "reseller": {
-                "default": "3519",
-                "special": null,
-                "special_expire_date": null
-            }
-        },
+        "price": "7097",
         "main_image": {
             "url": "https://web-dev.kvalitne.cz/images/products/33512.jpg",
             "thumbs": {
@@ -303,19 +267,7 @@
         "outlet": 0,
         "iso_code_2": "CZ",
         "language": "en",
-        "prices": {
-            "currency": "CZK",
-            "list": {
-                "default": "5027",
-                "special": null,
-                "special_expire_date": null
-            },
-            "reseller": {
-                "default": "2493",
-                "special": null,
-                "special_expire_date": null
-            }
-        },
+        "price": "5027",
         "main_image": {
             "url": "https://web-dev.kvalitne.cz/images/products/64077.jpg",
             "thumbs": {
