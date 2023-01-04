@@ -1,0 +1,13 @@
+.productList {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.productItem {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.productItem img {
+    width: 100%;
+}

@@ -1,0 +1,64 @@
+{
+    "products": [
+    {
+        "product_code": "TL140963",
+        "name": "Shanghai Leather backpack",
+        "color": "Dark Blue",
+        "ean": "8054383732111",
+        "available_quantity": 29,
+        "estimated_arrival_date": "",
+        "phase_out": 0,
+        "saleable": 1,
+        "outlet": 0,
+        "iso_code_2": "CZ",
+        "language": "en",
+        "price": "2425",
+        "main_image": "https://web-dev.kvalitne.cz/images/products/43110.jpg"
+    },
+    {
+        "product_code": "TL10034",
+        "name": "Monalisa Doctor gladstone leather bag with front straps",
+        "color": "Brown",
+        "ean": "8053830520455",
+        "available_quantity": 20,
+        "estimated_arrival_date": "",
+        "phase_out": 0,
+        "saleable": 1,
+        "outlet": 0,
+        "iso_code_2": "CZ",
+        "language": "en",
+        "price": "7689",
+        "main_image": "https://web-dev.kvalitne.cz/images/products/38000.jpg"
+    },
+    {
+        "product_code": "TL10038",
+        "name": "Michelangelo Doctor gladstone leather bag",
+        "color": "Brown",
+        "ean": "8053830520561",
+        "available_quantity": 16,
+        "estimated_arrival_date": "",
+        "phase_out": 0,
+        "saleable": 1,
+        "outlet": 0,
+        "iso_code_2": "CZ",
+        "language": "en",
+        "price": "7097",
+        "main_image": "https://web-dev.kvalitne.cz/images/products/33512.jpg"
+    },
+    {
+        "product_code": "TL141283",
+        "name": "Prato Exclusive leather laptop case",
+        "color": "Brown",
+        "ean": "8053830525023",
+        "available_quantity": 25,
+        "estimated_arrival_date": "",
+        "phase_out": 0,
+        "saleable": 1,
+        "outlet": 0,
+        "iso_code_2": "CZ",
+        "language": "en",
+        "price": "5027",
+        "main_image": "https://web-dev.kvalitne.cz/images/products/64077.jpg"
+    }
+    ]
+}
